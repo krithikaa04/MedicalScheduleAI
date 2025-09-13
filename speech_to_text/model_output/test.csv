@@ -1,0 +1,42 @@
+ID,wav,transcript
+audio_10,training_data\audio_10.wav,Take Escitalopram 10mg once daily in the morning for anxiety.
+audio_111,training_data\audio_111.wav,Take Moxifloxacin 400mg once daily for pneumonia.
+audio_117,training_data\audio_117.wav,I have to take Bumetanide 1mg once daily in the morning for edema.
+audio_118,training_data\audio_118.wav,The doctor advised me to take Carbamazepine 200mg twice daily for trigeminal neuralgia.
+audio_132,training_data\audio_132.wav,I need to take Nitroglycerin 0.4mg under the tongue as needed for chest pain.
+audio_142,training_data\audio_142.wav,Take Pramipexole 0.5mg three times daily for restless leg syndrome.
+audio_144,training_data\audio_144.wav,I have to take Galantamine 8mg twice daily for Alzheimer's disease.
+audio_146,training_data\audio_146.wav,I need to apply Ketoconazole 2% cream twice daily for fungal infection.
+audio_148,training_data\audio_148.wav,My medication is Dapsone 100mg once daily for dermatitis herpetiformis.
+audio_150,training_data\audio_150.wav,I need to take Acarbose 50mg three times daily with meals for diabetes.
+audio_151,training_data\audio_151.wav,Take Levofloxacin 750mg once daily for 5 days for bronchitis.
+audio_156,training_data\audio_156.wav,Take Linagliptin 5mg once daily for diabetes.
+audio_163,training_data\audio_163.wav,The doctor prescribed Riluzole 50mg twice daily for ALS.
+audio_166,training_data\audio_166.wav,My medication is Epinephrine auto-injector 0.3mg as needed for severe allergic reactions.
+audio_178,training_data\audio_178.wav,Take Tolbutamide 500mg three times daily with meals for diabetes.
+audio_179,training_data\audio_179.wav,My prescription is for Benztropine 1mg twice daily for Parkinson's symptoms.
+audio_182,training_data\audio_182.wav,I need to use Metoprolol 25mg twice daily for migraine prevention.
+audio_189,training_data\audio_189.wav,"I have to take Loperamide 2mg as needed for diarrhea, not to exceed 8 tablets per day."
+audio_191,training_data\audio_191.wav,I need to take Minoxidil 10mg twice daily for resistant hypertension.
+audio_192,training_data\audio_192.wav,Take Nystatin suspension 5ml four times daily for oral thrush.
+audio_195,training_data\audio_195.wav,I need to take Pyridostigmine 60mg three times daily for myasthenia gravis.
+audio_196,training_data\audio_196.wav,Take Quinidine 200mg three times daily for arrhythmia.
+audio_203,training_data\audio_203.wav,I was prescribed Topiramate 50mg twice daily for seizure prevention.
+audio_21,training_data\audio_21.wav,My medication is Risperidone 1mg twice daily for schizophrenia.
+audio_29,training_data\audio_29.wav,I need to use Tiotropium inhaler 1 puff once daily for COPD.
+audio_3,training_data\audio_3.wav,I need to take Diltiazem 120mg three times a day for high blood pressure.
+audio_33,training_data\audio_33.wav,I need to apply Tretinoin 0.025% cream to the face every night for acne.
+audio_47,training_data\audio_47.wav,I need to apply Hydrocortisone 1% cream twice daily for eczema.
+audio_49,training_data\audio_49.wav,My medication is Candesartan 8mg once daily for high blood pressure.
+audio_54,training_data\audio_54.wav,I have to take Sumatriptan 50mg as needed for migraine headaches.
+audio_57,training_data\audio_57.wav,Take Tamoxifen 20mg once daily for breast cancer prevention.
+audio_65,training_data\audio_65.wav,I need to take Febuxostat 40mg once daily for chronic gout.
+audio_69,training_data\audio_69.wav,I need to take Acyclovir 400mg three times daily for viral infection.
+audio_74,training_data\audio_74.wav,I need to use Tiotropium-Olodaterol inhaler 2 puffs once daily for COPD.
+audio_77,training_data\audio_77.wav,I was told to take Chlorthalidone 25mg once daily for hypertension.
+audio_82,training_data\audio_82.wav,The doctor prescribed Raloxifene 60mg once daily for osteoporosis.
+audio_84,training_data\audio_84.wav,Take Prazosin 1mg at bedtime for PTSD nightmares.
+audio_89,training_data\audio_89.wav,My prescription is for Enalapril 10mg twice daily for heart failure.
+audio_92,training_data\audio_92.wav,I need to use Salmeterol-Fluticasone inhaler 1 puff twice daily for asthma.
+audio_96,training_data\audio_96.wav,I need to take Tacrolimus 1mg twice daily after organ transplant.
+audio_99,training_data\audio_99.wav,I have to take Divalproex 250mg three times daily for seizures.
