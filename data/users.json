@@ -1,0 +1,40 @@
+[
+  {
+    "username": "Krithika",
+    "password": "krithika",
+    "name": "Krithika Lakshman",
+    "age": 66,
+    "phone": "7338742131",
+    "email": "hwbhbh",
+    "blood_type": "B+",
+    "allergies": "NO ALLERGIES\n",
+    "emergency_contacts": [
+      {
+        "id": "a5380f6a-29b0-4028-812e-bbc8a140e674",
+        "name": "Sanjana",
+        "relationship": "Friend",
+        "phone": "+917338742131",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "username": "BYEE",
+    "password": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+    "name": "Krithika Lakshman",
+    "age": 65,
+    "phone": "7338742131",
+    "email": "ergvbhjdnckm",
+    "blood_type": "A+",
+    "allergies": "nothing",
+    "emergency_contacts": [
+      {
+        "id": "f10819bf-71d5-4eee-9667-687075e2ad8c",
+        "name": "Krithika",
+        "relationship": "sister",
+        "phone": "+917338742131",
+        "email": "krithikalakshman0401@gmail.com"
+      }
+    ]
+  }
+]
