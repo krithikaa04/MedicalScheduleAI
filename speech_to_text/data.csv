@@ -1,0 +1,208 @@
+ID,wav,transcript
+audio_58,training_data/audio_58.wav,My medication is Celecoxib 200mg twice daily for arthritis pain.
+audio_112,training_data/audio_112.wav,My medication is Sotalol 80mg twice daily for arrhythmia.
+audio_165,training_data/audio_165.wav,Take Ursodeoxycholic acid 250mg three times daily for gallstones.
+audio_186,training_data/audio_186.wav,I need to take Gemfibrozil 600mg twice daily for high triglycerides.
+audio_62,training_data/audio_62.wav,My prescription is for Isosorbide Mononitrate 30mg once daily for angina.
+audio_107,training_data/audio_107.wav,My prescription is for Desmopressin 0.1mg twice daily for diabetes insipidus.
+audio_19,training_data/audio_19.wav,The doctor prescribed Benzonatate 200mg three times daily for cough.
+audio_34,training_data/audio_34.wav,Take Methylphenidate 10mg twice daily for ADHD.
+audio_115,training_data/audio_115.wav,Take Saxagliptin 5mg once daily for diabetes type 2.
+audio_46,training_data/audio_46.wav,The doctor advised me to take Lovastatin 20mg with dinner for high cholesterol.
+audio_67,training_data/audio_67.wav,My medication is Mirabegron 25mg once daily for overactive bladder.
+audio_126,training_data/audio_126.wav,I have to take Febuxostat 80mg once daily for hyperuricemia.
+audio_52,training_data/audio_52.wav,Take Finasteride 1mg once daily for hair loss.
+audio_98,training_data/audio_98.wav,My prescription is for Ezetimibe 10mg once daily for high cholesterol.
+audio_25,training_data/audio_25.wav,Take Clonidine 0.1mg twice daily for hypertension.
+audio_9,training_data/audio_9.wav,I have to take Cyclobenzaprine 10mg three times daily for muscle spasms.
+audio_60,training_data/audio_60.wav,I need to take Risedronate 35mg once weekly for osteoporosis.
+audio_83,training_data/audio_83.wav,I need to take Alfuzosin 10mg once daily after a meal for BPH.
+audio_175,training_data/audio_175.wav,My medication is Quinapril 10mg twice daily for hypertension.
+audio_167,training_data/audio_167.wav,I was advised to take Lithium 300mg three times daily for bipolar disorder.
+audio_24,training_data/audio_24.wav,I need to take Levetiracetam 500mg twice daily for seizures.
+audio_66,training_data/audio_66.wav,Take Dabigatran 150mg twice daily to prevent blood clots.
+audio_193,training_data/audio_193.wav,My medication is Oxcarbazepine 300mg twice daily for seizures.
+audio_190,training_data/audio_190.wav,The doctor prescribed Megestrol 40mg four times daily for appetite stimulation.
+audio_161,training_data/audio_161.wav,My prescription is for Olmesartan-Hydrochlorothiazide 20-12.5mg once daily for hypertension.
+audio_121,training_data/audio_121.wav,My medication is Liraglutide 1.2mg injection once daily for diabetes.
+audio_185,training_data/audio_185.wav,I was told to take Pentoxifylline 400mg three times daily for circulation.
+audio_113,training_data/audio_113.wav,I was advised to take Modafinil 200mg once daily in the morning for narcolepsy.
+audio_4,training_data/audio_4.wav,My doctor prescribed Fluoxetine 20mg every morning for depression.
+audio_79,training_data/audio_79.wav,Take Metronidazole 500mg three times daily for bacterial infection.
+audio_51,training_data/audio_51.wav,I need to take Tolterodine 2mg twice daily for overactive bladder.
+audio_160,training_data/audio_160.wav,Take Minocycline 100mg twice daily for acne.
+audio_159,training_data/audio_159.wav,I need to take Brinzolamide eye drops 1 drop in each eye three times daily for glaucoma.
+audio_207,training_data/audio_207.wav,I have to take Zonisamide 100mg twice daily for partial seizures.
+audio_45,training_data/audio_45.wav,I have to take Aripiprazole 10mg once daily for mood stabilization.
+audio_188,training_data/audio_188.wav,My prescription is for Levalbuterol inhaler 2 puffs every 4-6 hours for asthma.
+audio_37,training_data/audio_37.wav,The doctor advised me to take Sulfamethoxazole-Trimethoprim 800-160mg twice daily for UTI.
+audio_63,training_data/audio_63.wav,I have to use Budesonide-Formoterol inhaler 2 puffs twice daily for asthma.
+audio_14,training_data/audio_14.wav,Take Pantoprazole 40mg once daily before breakfast for stomach ulcers.
+audio_200,training_data/audio_200.wav,I need to use Sucralfate 1g four times daily for stomach ulcers.
+audio_158,training_data/audio_158.wav,I was told to take Efavirenz 600mg once daily at bedtime for HIV infection.
+audio_72,training_data/audio_72.wav,I have to take Propylthiouracil 50mg three times daily for hyperthyroidism.
+audio_177,training_data/audio_177.wav,I need to take Temazepam 15mg at bedtime for insomnia.
+audio_95,training_data/audio_95.wav,I was prescribed Baclofen 10mg three times daily for muscle spasticity.
+audio_16,training_data/audio_16.wav,I need to take Clindamycin 300mg four times daily for skin infection.
+audio_173,training_data/audio_173.wav,I need to take Perindopril 4mg once daily for hypertension.
+audio_97,training_data/audio_97.wav,Take Sitagliptin 100mg once daily for diabetes.
+audio_87,training_data/audio_87.wav,I need to take Tadalafil 5mg once daily for BPH.
+audio_133,training_data/audio_133.wav,Take Allopurinol 300mg once daily for kidney stones.
+audio_120,training_data/audio_120.wav,Take Doxepin 10mg at bedtime for insomnia.
+audio_153,training_data/audio_153.wav,I have to take Eletriptan 40mg as needed for migraine headaches.
+audio_88,training_data/audio_88.wav,Take Methylprednisolone 4mg dose pack as directed for inflammation.
+audio_125,training_data/audio_125.wav,My prescription is for Clozapine 50mg twice daily for schizophrenia.
+audio_116,training_data/audio_116.wav,My prescription is for Terbinafine 250mg once daily for fungal infection.
+audio_149,training_data/audio_149.wav,I was prescribed Vortioxetine 10mg once daily for depression.
+audio_183,training_data/audio_183.wav,Take Fosinopril 10mg once daily for hypertension.
+audio_75,training_data/audio_75.wav,Take Telmisartan 40mg once daily for hypertension.
+audio_55,training_data/audio_55.wav,The doctor prescribed Pioglitazone 30mg once daily for diabetes.
+audio_103,training_data/audio_103.wav,My medication is Ofloxacin 400mg twice daily for respiratory infection.
+audio_31,training_data/audio_31.wav,My medication is Phenytoin 100mg three times daily for seizure control.
+audio_15,training_data/audio_15.wav,My medication is Valsartan 160mg once daily for hypertension.
+audio_27,training_data/audio_27.wav,I have to take Doxazosin 4mg once daily at bedtime for enlarged prostate.
+audio_202,training_data/audio_202.wav,My medication is Theophylline 200mg twice daily for COPD.
+audio_44,training_data/audio_44.wav,My prescription is for Lansoprazole 30mg once daily before breakfast for GERD.
+audio_197,training_data/audio_197.wav,My prescription is for Ramelteon 8mg at bedtime for insomnia.
+audio_71,training_data/audio_71.wav,My prescription is for Nitrofurantoin 100mg four times daily for UTI.
+audio_127,training_data/audio_127.wav,The doctor advised me to take Thiazolidinedione 15mg once daily for diabetes.
+audio_11,training_data/audio_11.wav,I need to take Famotidine 20mg twice daily for acid reflux.
+audio_130,training_data/audio_130.wav,My medication is Dronedarone 400mg twice daily for atrial fibrillation.
+audio_124,training_data/audio_124.wav,Take Empagliflozin 10mg once daily for diabetes type 2.
+audio_137,training_data/audio_137.wav,I need to use Cyproheptadine 4mg four times daily for allergic reactions.
+audio_170,training_data/audio_170.wav,My prescription is for Penicillamine 250mg four times daily for Wilson's disease.
+audio_187,training_data/audio_187.wav,Take Calcitonin nasal spray 1 spray daily alternating nostrils for osteoporosis.
+audio_40,training_data/audio_40.wav,My medication is Memantine 10mg twice daily for Alzheimer's disease.
+audio_145,training_data/audio_145.wav,The doctor advised me to take Naltrexone 50mg once daily for alcohol dependence.
+audio_204,training_data/audio_204.wav,I need to take Trandolapril 2mg once daily for hypertension.
+audio_64,training_data/audio_64.wav,The doctor advised me to take Morphine 15mg every 4 hours as needed for pain.
+audio_168,training_data/audio_168.wav,I need to take Flecainide 100mg twice daily for atrial fibrillation.
+audio_136,training_data/audio_136.wav,The doctor prescribed Cabergoline 0.5mg twice weekly for high prolactin levels.
+audio_28,training_data/audio_28.wav,The doctor prescribed Hydroxyzine 25mg three times daily for anxiety and itching.
+audio_17,training_data/audio_17.wav,I have to use Lantus insulin 20 units at bedtime for diabetes.
+audio_70,training_data/audio_70.wav,Take Apixaban 5mg twice daily to prevent stroke.
+audio_122,training_data/audio_122.wav,I was prescribed Buspirone 15mg twice daily for anxiety.
+audio_38,training_data/audio_38.wav,I need to take Quetiapine 25mg at bedtime for insomnia.
+audio_198,training_data/audio_198.wav,I have to take Rosiglitazone 4mg twice daily for diabetes.
+audio_90,training_data/audio_90.wav,I have to take Ondansetron 4mg every 8 hours as needed for nausea.
+audio_100,training_data/audio_100.wav,The doctor advised me to take Ziprasidone 40mg twice daily with food for bipolar disorder.
+audio_169,training_data/audio_169.wav,Take Dimethyl fumarate 240mg twice daily for multiple sclerosis.
+audio_140,training_data/audio_140.wav,I was advised to take Ticagrelor 90mg twice daily after heart attack.
+audio_26,training_data/audio_26.wav,My prescription is for Lamotrigine 100mg twice daily for bipolar disorder.
+audio_2,training_data/audio_2.wav,Take Carvedilol 12.5mg twice daily for heart failure.
+audio_180,training_data/audio_180.wav,I have to take Timolol eye drops 1 drop in each eye twice daily for glaucoma.
+audio_176,training_data/audio_176.wav,I was prescribed Rifaximin 550mg three times daily for irritable bowel syndrome.
+audio_39,training_data/audio_39.wav,Take Olanzapine 5mg once daily at bedtime for bipolar disorder.
+audio_131,training_data/audio_131.wav,I was told to take Isoniazid 300mg once daily for tuberculosis prevention.
+audio_205,training_data/audio_205.wav,Take Valproic acid 250mg three times daily for seizures.
+audio_154,training_data/audio_154.wav,The doctor advised me to take Armodafinil 150mg once daily in the morning for shift work disorder.
+audio_119,training_data/audio_119.wav,I need to use Glycopyrrolate 1mg twice daily for excessive sweating.
+audio_36,training_data/audio_36.wav,I have to take Ramipril 5mg once daily for heart failure.
+audio_43,training_data/audio_43.wav,Take Budesonide inhaler 2 puffs twice daily for asthma.
+audio_129,training_data/audio_129.wav,Take Metaxalone 800mg three times daily for muscle spasms.
+audio_109,training_data/audio_109.wav,The doctor prescribed Primidone 250mg twice daily for essential tremor.
+audio_94,training_data/audio_94.wav,My medication is Methyldopa 250mg three times daily for pregnancy hypertension.
+audio_61,training_data/audio_61.wav,Take Valacyclovir 1g three times daily for herpes outbreak.
+audio_104,training_data/audio_104.wav,I was told to take Leflunomide 20mg once daily for rheumatoid arthritis.
+audio_123,training_data/audio_123.wav,I need to take Indomethacin 25mg three times daily for gout.
+audio_53,training_data/audio_53.wav,My prescription is for Solifenacin 5mg once daily for urinary frequency.
+audio_91,training_data/audio_91.wav,The doctor advised me to take Zolmitriptan 2.5mg as needed for migraines.
+audio_41,training_data/audio_41.wav,I was prescribed Paroxetine 20mg once daily in the morning for panic disorder.
+audio_102,training_data/audio_102.wav,Take Ribavirin 200mg twice daily for hepatitis C.
+audio_128,training_data/audio_128.wav,I need to take Cilostazol 100mg twice daily for peripheral artery disease.
+audio_20,training_data/audio_20.wav,I need to take Methotrexate 15mg once weekly for rheumatoid arthritis.
+audio_85,training_data/audio_85.wav,My medication is Sildenafil 50mg as needed for erectile dysfunction.
+audio_206,training_data/audio_206.wav,My prescription is for Voriconazole 200mg twice daily for fungal infection.
+audio_48,training_data/audio_48.wav,Take Dutasteride 0.5mg once daily for enlarged prostate.
+audio_201,training_data/audio_201.wav,Take Terazosin 1mg at bedtime for benign prostatic hyperplasia.
+audio_108,training_data/audio_108.wav,I have to take Terazosin 2mg at bedtime for hypertension.
+audio_155,training_data/audio_155.wav,I need to take Abacavir 300mg twice daily for HIV treatment.
+audio_22,training_data/audio_22.wav,Take Mirtazapine 15mg at bedtime for depression and sleep.
+audio_5,training_data/audio_5.wav,I was told to take Venlafaxine 75mg once daily with food for anxiety.
+audio_68,training_data/audio_68.wav,I was prescribed Repaglinide 1mg before meals for diabetes.
+audio_80,training_data/audio_80.wav,My prescription is for Felodipine 5mg once daily for hypertension.
+audio_56,training_data/audio_56.wav,I need to take Nifedipine 30mg once daily for high blood pressure.
+audio_162,training_data/audio_162.wav,I have to take Phentermine 37.5mg once daily before breakfast for weight loss.
+audio_59,training_data/audio_59.wav,I was advised to take Colchicine 0.6mg twice daily for acute gout.
+audio_157,training_data/audio_157.wav,My medication is Methocarbamol 750mg three times daily for muscle spasms.
+audio_139,training_data/audio_139.wav,My medication is Milrinone 50mg once daily for heart failure.
+audio_35,training_data/audio_35.wav,My prescription is for Atomoxetine 40mg once daily for attention deficit disorder.
+audio_135,training_data/audio_135.wav,I have to take Silodosin 8mg once daily for enlarged prostate.
+audio_23,training_data/audio_23.wav,I was advised to take Olmesartan 20mg once daily for high blood pressure.
+audio_12,training_data/audio_12.wav,The doctor advised me to take Diazepam 5mg three times daily for muscle spasms.
+audio_8,training_data/audio_8.wav,My prescription is for Oxycodone 5mg every 4-6 hours as needed for severe pain.
+audio_50,training_data/audio_50.wav,I was told to take Meclizine 25mg three times daily for vertigo.
+audio_172,training_data/audio_172.wav,The doctor advised me to take Ivabradine 5mg twice daily for heart failure.
+audio_134,training_data/audio_134.wav,My prescription is for Vancomycin 125mg four times daily for C. difficile infection.
+audio_7,training_data/audio_7.wav,I need to use Fluticasone nasal spray 1 spray in each nostril daily for allergies.
+audio_141,training_data/audio_141.wav,I need to take Entacapone 200mg with each levodopa dose for Parkinson's disease.
+audio_184,training_data/audio_184.wav,My medication is Albuterol-Ipratropium inhaler 2 puffs four times daily for COPD.
+audio_76,training_data/audio_76.wav,My medication is Hydromorphone 2mg every 4-6 hours as needed for severe pain.
+audio_138,training_data/audio_138.wav,Take Rifampin 600mg once daily for tuberculosis treatment.
+audio_42,training_data/audio_42.wav,I need to take Irbesartan 150mg once daily for hypertension.
+audio_101,training_data/audio_101.wav,I need to apply Mupirocin 2% ointment three times daily for skin infection.
+audio_194,training_data/audio_194.wav,I was advised to take Perphenazine 4mg three times daily for schizophrenia.
+audio_147,training_data/audio_147.wav,Take Ranolazine 500mg twice daily for chronic angina.
+audio_32,training_data/audio_32.wav,I was told to take Verapamil 120mg three times daily for hypertension.
+audio_81,training_data/audio_81.wav,I have to take Folic Acid 1mg once daily during pregnancy.
+audio_6,training_data/audio_6.wav,Take Naproxen 500mg twice daily for arthritis pain.
+audio_86,training_data/audio_86.wav,I was advised to take Desvenlafaxine 50mg once daily for depression.
+audio_143,training_data/audio_143.wav,My prescription is for Bromocriptine 2.5mg twice daily for hyperprolactinemia.
+audio_171,training_data/audio_171.wav,I have to take Guanfacine 1mg once daily at bedtime for ADHD.
+audio_13,training_data/audio_13.wav,I was prescribed Amitriptyline 25mg at bedtime for neuropathic pain.
+audio_105,training_data/audio_105.wav,I need to take Etodolac 400mg twice daily for osteoarthritis.
+audio_199,training_data/audio_199.wav,The doctor advised me to take Selegiline 5mg twice daily for Parkinson's disease.
+audio_181,training_data/audio_181.wav,The doctor advised me to take Simethicone 80mg after meals and at bedtime for gas.
+audio_174,training_data/audio_174.wav,Take Brimonidine eye drops 1 drop in each eye twice daily for glaucoma.
+audio_78,training_data/audio_78.wav,I need to take Anastrozole 1mg once daily for breast cancer.
+audio_93,training_data/audio_93.wav,Take Phenobarbital 30mg twice daily for seizure control.
+audio_18,training_data/audio_18.wav,Take Fexofenadine 180mg once daily for seasonal allergies.
+audio_106,training_data/audio_106.wav,Take Fluvoxamine 50mg twice daily for OCD.
+audio_110,training_data/audio_110.wav,I need to take Triamcinolone 4mg twice daily for severe asthma.
+audio_152,training_data/audio_152.wav,My prescription is for Midodrine 10mg three times daily for low blood pressure.
+audio_73,training_data/audio_73.wav,The doctor advised me to take Rivaroxaban 20mg once daily with food for DVT.
+audio_30,training_data/audio_30.wav,Take Donepezil 5mg once daily at bedtime for Alzheimer's disease.
+audio_114,training_data/audio_114.wav,I need to take Clomipramine 50mg at bedtime for OCD.
+audio_164,training_data/audio_164.wav,I need to use Salicylic acid 2% solution twice daily for warts.
+ID,wav,transcript
+audio_10,training_data/audio_10.wav,Take Escitalopram 10mg once daily in the morning for anxiety.
+audio_111,training_data/audio_111.wav,Take Moxifloxacin 400mg once daily for pneumonia.
+audio_117,training_data/audio_117.wav,I have to take Bumetanide 1mg once daily in the morning for edema.
+audio_118,training_data/audio_118.wav,The doctor advised me to take Carbamazepine 200mg twice daily for trigeminal neuralgia.
+audio_132,training_data/audio_132.wav,I need to take Nitroglycerin 0.4mg under the tongue as needed for chest pain.
+audio_142,training_data/audio_142.wav,Take Pramipexole 0.5mg three times daily for restless leg syndrome.
+audio_144,training_data/audio_144.wav,I have to take Galantamine 8mg twice daily for Alzheimer's disease.
+audio_146,training_data/audio_146.wav,I need to apply Ketoconazole 2% cream twice daily for fungal infection.
+audio_148,training_data/audio_148.wav,My medication is Dapsone 100mg once daily for dermatitis herpetiformis.
+audio_150,training_data/audio_150.wav,I need to take Acarbose 50mg three times daily with meals for diabetes.
+audio_151,training_data/audio_151.wav,Take Levofloxacin 750mg once daily for 5 days for bronchitis.
+audio_156,training_data/audio_156.wav,Take Linagliptin 5mg once daily for diabetes.
+audio_163,training_data/audio_163.wav,The doctor prescribed Riluzole 50mg twice daily for ALS.
+audio_166,training_data/audio_166.wav,My medication is Epinephrine auto-injector 0.3mg as needed for severe allergic reactions.
+audio_178,training_data/audio_178.wav,Take Tolbutamide 500mg three times daily with meals for diabetes.
+audio_179,training_data/audio_179.wav,My prescription is for Benztropine 1mg twice daily for Parkinson's symptoms.
+audio_182,training_data/audio_182.wav,I need to use Metoprolol 25mg twice daily for migraine prevention.
+audio_189,training_data/audio_189.wav,"I have to take Loperamide 2mg as needed for diarrhea, not to exceed 8 tablets per day."
+audio_191,training_data/audio_191.wav,I need to take Minoxidil 10mg twice daily for resistant hypertension.
+audio_192,training_data/audio_192.wav,Take Nystatin suspension 5ml four times daily for oral thrush.
+audio_195,training_data/audio_195.wav,I need to take Pyridostigmine 60mg three times daily for myasthenia gravis.
+audio_196,training_data/audio_196.wav,Take Quinidine 200mg three times daily for arrhythmia.
+audio_203,training_data/audio_203.wav,I was prescribed Topiramate 50mg twice daily for seizure prevention.
+audio_21,training_data/audio_21.wav,My medication is Risperidone 1mg twice daily for schizophrenia.
+audio_29,training_data/audio_29.wav,I need to use Tiotropium inhaler 1 puff once daily for COPD.
+audio_3,training_data/audio_3.wav,I need to take Diltiazem 120mg three times a day for high blood pressure.
+audio_33,training_data/audio_33.wav,I need to apply Tretinoin 0.025% cream to the face every night for acne.
+audio_47,training_data/audio_47.wav,I need to apply Hydrocortisone 1% cream twice daily for eczema.
+audio_49,training_data/audio_49.wav,My medication is Candesartan 8mg once daily for high blood pressure.
+audio_54,training_data/audio_54.wav,I have to take Sumatriptan 50mg as needed for migraine headaches.
+audio_57,training_data/audio_57.wav,Take Tamoxifen 20mg once daily for breast cancer prevention.
+audio_65,training_data/audio_65.wav,I need to take Febuxostat 40mg once daily for chronic gout.
+audio_69,training_data/audio_69.wav,I need to take Acyclovir 400mg three times daily for viral infection.
+audio_74,training_data/audio_74.wav,I need to use Tiotropium-Olodaterol inhaler 2 puffs once daily for COPD.
+audio_77,training_data/audio_77.wav,I was told to take Chlorthalidone 25mg once daily for hypertension.
+audio_82,training_data/audio_82.wav,The doctor prescribed Raloxifene 60mg once daily for osteoporosis.
+audio_84,training_data/audio_84.wav,Take Prazosin 1mg at bedtime for PTSD nightmares.
+audio_89,training_data/audio_89.wav,My prescription is for Enalapril 10mg twice daily for heart failure.
+audio_92,training_data/audio_92.wav,I need to use Salmeterol-Fluticasone inhaler 1 puff twice daily for asthma.
+audio_96,training_data/audio_96.wav,I need to take Tacrolimus 1mg twice daily after organ transplant.
+audio_99,training_data/audio_99.wav,I have to take Divalproex 250mg three times daily for seizures.
